@@ -1,1 +1,2 @@
-# latihan1css
+Nama : Viggi Tri Vaudy
+NPM : 180403020001
